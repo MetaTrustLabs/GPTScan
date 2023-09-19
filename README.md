@@ -1,6 +1,6 @@
 # GPTScan
 
-This repository contains the prompts and rules used in GPTScan.
+This repository contains the prompts and rules used in MetaTrust Labs' GPTScan.
 
 More rules and APIs will coming later.
 
