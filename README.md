@@ -10,14 +10,6 @@ More rules and APIs will coming later.
 
 Bibtex:
 ```bibtex
-@misc{sun2023gpt,
-      title={GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis}, 
-      author={Yuqiang Sun and Daoyuan Wu and Yue Xue and Han Liu and Haijun Wang and Zhengzi Xu and Xiaofei Xie and Yang Liu},
-      year={2023},
-      eprint={2308.03314},
-      archivePrefix={arXiv},
-      primaryClass={cs.CR}
-}
 @INPROCEEDINGS{sunicse2023gpt,
   author={Yuqiang Sun and Daoyuan Wu and Yue Xue and Han Liu and Haijun Wang and Zhengzi Xu and Xiaofei Xie and Yang Liu},
   booktitle={2024 IEEE/ACM 45th International Conference on Software Engineering (ICSE)}, 
