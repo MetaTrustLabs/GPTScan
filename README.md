@@ -6,18 +6,23 @@ More rules and APIs will coming later.
 
 ## Preprint paper
 
-[![](https://img.shields.io/badge/arXiv-2308.03314-B31B1B?style=flat-square)](https://arxiv.org/abs/2308.03314) Yuqiang Sun, Daoyuan Wu, Yue Xue, Han Liu, Haijun Wang, Zhengzi Xu, Xiaofei Xie, Yang Liu, **When GPT Meets Program Analysis: Towards Intelligent Detection of Smart Contract Logic Vulnerabilities in GPTScan**. *arXiv preprint arXiv:2308.03314*. [[arxiv](https://arxiv.org/abs/2308.03314)]
+[![](https://img.shields.io/badge/arXiv-2308.03314-B31B1B?style=flat-square)](https://arxiv.org/abs/2308.03314) Yuqiang Sun, Daoyuan Wu, Yue Xue, Han Liu, Haijun Wang, Zhengzi Xu, Xiaofei Xie, Yang Liu, **GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis**. *2024 IEEE/ACM 45th International Conference on Software Engineering (ICSE)*. [[arxiv](https://arxiv.org/abs/2308.03314)]
 
 Bibtex:
 ```bibtex
 @misc{sun2023gpt,
-      title={When GPT Meets Program Analysis: Towards Intelligent Detection of Smart Contract Logic Vulnerabilities in GPTScan}, 
+      title={GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis}, 
       author={Yuqiang Sun and Daoyuan Wu and Yue Xue and Han Liu and Haijun Wang and Zhengzi Xu and Xiaofei Xie and Yang Liu},
       year={2023},
       eprint={2308.03314},
       archivePrefix={arXiv},
       primaryClass={cs.CR}
 }
+@INPROCEEDINGS{sunicse2023gpt,
+  author={Yuqiang Sun and Daoyuan Wu and Yue Xue and Han Liu and Haijun Wang and Zhengzi Xu and Xiaofei Xie and Yang Liu},
+  booktitle={2024 IEEE/ACM 45th International Conference on Software Engineering (ICSE)}, 
+  title={GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis}, 
+  year={2024}
 ```
 
 ## Dataset
