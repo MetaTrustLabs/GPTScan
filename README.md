@@ -1,5 +1,7 @@
 # GPTScan
 
+You can try GPTScan at https://app.metatrust.io/ for the moment, but we will replace it later with a new version (covering all kinds of logic bug rules).
+
 This repository contains the prompts and rules used in MetaTrust Labs' GPTScan.
 
 More rules and APIs will coming later.
@@ -22,3 +24,4 @@ Bibtex:
 Dataset used to evaluate GPTScan in the paper, are the following:
 1. Web3Bugs: [https://github.com/MetaTrustLabs/GPTScan-Web3Bugs](https://github.com/MetaTrustLabs/GPTScan-Web3Bugs)
 2. DefiHacks: [https://github.com/MetaTrustLabs/GPTScan-DefiHacks](https://github.com/MetaTrustLabs/GPTScan-DefiHacks)
+3. Top200: [https://github.com/MetaTrustLabs/GPTScan-Top200](https://github.com/MetaTrustLabs/GPTScan-Top200)
